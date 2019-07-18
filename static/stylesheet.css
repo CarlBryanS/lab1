@@ -1,0 +1,41 @@
+
+space { 
+	padding-left: 26em; 
+	}	
+space2 {
+	 padding-left:4em;
+	}
+space3 { 
+	padding-left:11em;	
+	}
+space4 { 
+	padding-left:16em;
+	}
+body {
+	background-color: #000000;
+	color:white;
+	font-family:Century Gothic;
+      }
+.start {
+	width: 100px;
+	padding: 0;
+	border: 5px solid white;
+	margin: 0;
+	}
+box {
+	background-color: black;
+ 	width: 50%;
+ 	padding: 20px;
+  	border: 3px solid white;
+  	margin: auto;
+  }
+fc{
+  	color:white;
+  }
+a{
+  text-decoration:none;
+  }
+startPosition{
+  	position:relative;
+  	top:450px;
+  	}

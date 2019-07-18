@@ -1,0 +1,34 @@
+	space { padding-left: 26em; }
+	space2 { padding-left:4em;}
+	space3 { padding-left:11em;}
+	space4 { padding-left:16em;}
+	body {
+		background-color: #000000;
+		color:white;
+		font-family:Century Gothic;
+	}
+	box {
+		background-color: black;
+ 	 	width: 50%;
+ 		padding: 20px;
+  		border: 3px solid white;
+  		margin: auto;
+  	}
+  	fc{
+  		color:white;
+  	}
+  	a{
+  		text-decoration:none;
+  	}
+  	hobbiesPosition{
+  		position:relative;
+  		top:450px;
+  	}
+  	aboutmePosition{
+  		position:relative;
+  		top:270px;
+  	}
+  	carouselPosition{
+  		position:relative;
+  		top:250px;
+  	}
