@@ -2,7 +2,7 @@
 		margin:0px;
 		color: white;
 		font-family: 'Courier New', Courier, monospace;
-		font-size:2vw;
+		font-size:2.5vw;
 		background-image: linear-gradient(90deg, rgb(0, 0, 85), rgb(83, 83, 0));
 	}
 	div#top{ 
@@ -31,4 +31,8 @@
 	a{
 		text-decoration: none;
 		color:inherit;
+	}
+
+	img{
+		text-align: center;
 	}

@@ -1,5 +1,8 @@
 	body{
 		background-image: linear-gradient(90deg, rgb(0, 0, 85), rgb(83, 83, 0) );
+		font-family: 'Courier New', Courier, monospace;
+		font-size:2.5vw;
+		color:white;
 	}
 	.choices{
 		text-align:center;
@@ -10,4 +13,13 @@
 		max-width: 90%;
 		max-height: 90%;
 	}
-	
+	div#top{ 
+		background: repeat-x; height:73px; font-size:36px; padding:20px 0px 0px 20px; 
+		background-image: linear-gradient(90deg, rgb(0, 0, 85), rgb(83, 83, 0) );
+		color:white;
+		font-family: 'Courier New', Courier, monospace;
+	}
+    a{
+		text-decoration: none;
+		color:inherit;
+	}
